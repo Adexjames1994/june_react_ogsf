@@ -1,0 +1,15 @@
+.logo{
+  font-size: 1rem;
+  font-family: cursive;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+ul{
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}

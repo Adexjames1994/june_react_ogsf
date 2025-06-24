@@ -22,10 +22,10 @@ function App() {
     <>
      <div>
       <Navbar/>
-       <h1>Good morning</h1>
+       <h1 className='text-danger border'>Good morning</h1>
      </div>
-     <div>
-       <h1>Good Afternoon</h1>
+     <div className='mx-auto d-flex'>
+       <h1 className=' text-primary border '>Good Afternoon</h1>
      </div>
      <Banner/>
     </>
