@@ -16,6 +16,7 @@
 import React from 'react'
 import Navbar from './Components/Navbar'
 import Banner from './Components/Banner'
+import Card from './Components/Card'
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
        <h1 className=' text-primary border '>Good Afternoon</h1>
      </div>
      <Banner/>
+     <Card/>
     </>
   )
 }
