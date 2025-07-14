@@ -58,3 +58,18 @@ export const cardItems = [
     image: Image6
   },
 ]
+
+export const cardUsers = [
+  {
+    firstName:"adeola",
+    lastName:"jegede"
+  },
+  {
+    firstName:"adeola",
+    lastName:"jegede"
+  },
+  {
+    firstName:"adeola",
+    lastName:"jegede"
+  },
+]

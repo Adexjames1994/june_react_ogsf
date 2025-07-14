@@ -1,14 +1,5 @@
-// import React from 'react'
-
-// function Navbar() {
-//   return (
-//     <div>Navbar</div>
-//   )
-// }
-
-// export default Navbar
 import React from 'react'
-import style from "./Navbar.module.css"
+import style from "../Components/Navbar.module.css"
 
 const Navbar = () => {
   return (
